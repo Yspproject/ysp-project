@@ -15,7 +15,7 @@ import {
   CheckCircle2
 } from "lucide-react";
 
-const WA_NUMBER = "629662416628"; // <-- GANTI DENGAN NOMOR ASLI ANDA NANTI
+const WA_NUMBER = "6289662416628"; // <-- GANTI DENGAN NOMOR ASLI ANDA NANTI
 
 export default function App() {
   const [isMobileOpen, setIsMobileOpen] = useState(false);
